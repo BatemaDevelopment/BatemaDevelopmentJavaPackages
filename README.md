@@ -14,7 +14,7 @@ ___
 You will find anything else you need to know here.
 
 ### Website
-![BatemaDevelopment](https://www.batemadevelopment.com)
+[BatemaDevelopment](https://www.batemadevelopment.com)
 
 ### Contact
 - Instagram
@@ -27,8 +27,8 @@ You will find anything else you need to know here.
 GameHogPlays#0119
 
 - Email
-![lukasbatema@batemadevelopment.com](mailto:lukasbatema@batemadevelopment.com)
+[lukasbatema@batemadevelopment.com](mailto:lukasbatema@batemadevelopment.com)
 
 - GitHub
-![Lukas-Batema](https://www.github.com/Lukas-Batema)
+[Lukas-Batema](https://www.github.com/Lukas-Batema)
 ___
