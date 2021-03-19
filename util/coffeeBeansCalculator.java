@@ -1,6 +1,6 @@
-import java.util.*;
+package com.batemadevelopment.util;
 
-package src.java.test.lukasbatema.app;
+import java.util.*;
 
 public class coffeeBeansCalculator {
   static Scanner sc = Scanner();
