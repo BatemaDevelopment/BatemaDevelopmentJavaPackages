@@ -2,10 +2,10 @@
 This is the repository for the Java package com.batemadevelopment.util.
 
 ___
-## CoffeeBeansCalculator
+<!-- ## CoffeeBeansCalculator
 You will find all the information you need for CoffeeBeansCalculator here.
 
-___
+___ -->
 ## chromacOS
 You will find all the information you need for chromacOS here.
 
