@@ -1,8 +1,8 @@
-# com.batemadevelopment.util
-This is the repository for the Java package com.batemadevelopment.util.
+# com.batemadevelopment.*
+This is the repository for the Java package com.batemadevelopment.*.
 
 ___
-<!-- ## CoffeeBeansCalculator
+<!-- ## DarkRoastCalculator
 You will find all the information you need for CoffeeBeansCalculator here.
 
 ___ -->
